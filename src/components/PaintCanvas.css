@@ -1,0 +1,17 @@
+.Canvas {
+    display: flex;
+    justify-content:center;
+    align-items:flex-start;
+    padding: 5px;
+    height: 89vh;
+}
+
+.save {
+    padding: 10px;
+    background-color: DarkTurquoise;
+    color: darkmagenta;
+    font-weight: bold;
+    border: 1px solid darkmagenta;
+    border-radius: 12px;
+    text-align: center;
+}

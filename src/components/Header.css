@@ -1,0 +1,7 @@
+.Header {
+    background-color: blue;
+    border: 5px solid black;
+    height: 5vh;
+    width: 99vw;
+    padding: 4px;
+}
